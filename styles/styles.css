@@ -1,0 +1,36 @@
+body {
+    background-color: #e9ecef;
+}
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+.form-group label {
+    color: #495057;
+}
+.btn-primary {
+    background-color: #6f42c1; /* Color suave para el botón */
+    border-color: #6f42c1;
+}
+.btn-primary:hover {
+    background-color: #5a32a3; /* Color al pasar el mouse */
+    border-color: #5a32a3;
+}
+img {
+    display: block;
+    margin: 0 auto 1rem; /* Centrar el logo y agregar margen inferior */
+    max-width: 100%; /* Ajustar el logo a la pantalla */
+    height: auto; /* Mantener la proporción del logo */
+}
+.tittle_1{
+    text-align:center;
+    
+}
+
+.centrado{
+    text-align: center;
+}
